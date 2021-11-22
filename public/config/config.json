@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb996436589C1E3F1D90971b564E1A61FC28793bb",
+  "SCAN_LINK": "https://polygonscan.com/token/0xb996436589C1E3F1D90971b564E1A61FC28793bb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Kawaii Waifus",
+  "SYMBOL": "KAWAII",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/kawaii-waifus",
+  "SHOW_BACKGROUND": true
+}
